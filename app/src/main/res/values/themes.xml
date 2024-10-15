@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Mini" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/main_color</item>
+<!--        <item name="colorPrimary">@color/main_color</item>-->
+<!--        <item name="colorPrimaryVariant">@color/second_color</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+<!--        <item name="colorSecondary">@color/main_color</item>-->
+<!--        <item name="colorSecondaryVariant">@color/second_color</item>-->
+        <item name="android:statusBarColor">@color/deep_color</item>
+<!-- 기기의 status-bar 를 안 보이게 하는 속성-->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+  <string name="app_name">Liar</string>
+  <!--    <dimen name="sm">14sp</dimen>-->
+  <dimen name="md">18sp</dimen>
+  <dimen name="lg">24sp</dimen>
+  <string name="select">선택 완료</string>
+  <string name="free">자 유</string>
+  <string name="sports">운동 선수</string>
+  <string name="manager">축구지도자</string>
+  <string name="old_fb">축구은퇴선수</string>
+  <string name="famous">유명인사</string>
+  <string name="animal">동 물</string>
+  <string name="place">장 소</string>
+  <string name="actor">영화배우</string>
+  <string name="stuff">사 물</string>
+  <string name="singer">가 수</string>
+  <string name="foot_ball_player">축구선수(코파)</string>
+  <string name="foot_ball_player_Uro">축구선수(유로)</string>
+  <string name="genre">장르를 선택 하세요</string>
+  <string name="liar_game">라이어 게임</string>
+  <string name="btn_down">◀</string>
+  <string name="people_num">인 원</string>
+  <string name="btn_up">▶</string>
+  <string name="start">Start</string>
+  <string name="text_fragment_pass_text">터치하고 키워드와 역할을 확인하세요!</string>
+  <string name="text_fragment_part_info">키워드를 확인 했으면 터치 후 다음 사람에게 넘겨주세요!</string>
+  <string name="text_fragment_part_role">당신은 시민 입니다.</string>
+  <string name="text_fragment_last">토론을 시작하여 라이어를 색출하세요</string>
+  <string name="left_btn_image">left_btn_image</string>
+  <string name="btn_right_image">btn_right_image</string>
+  <string name="btn_shut_down_image">btn_shut_down_image</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
